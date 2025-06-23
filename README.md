@@ -43,6 +43,4 @@ The team overcame challenges such as heavy rain, limited medical expertise, and 
 
 Special thanks to Mr. Krishnanunni M V (mentor), the CIR department, Micro Lab professionals, and the staff and residents of Shalem Bhavan for their support and cooperation.
 
-## License
 
-Specify your preferred license here (e.g., MIT, GPL, etc.).
